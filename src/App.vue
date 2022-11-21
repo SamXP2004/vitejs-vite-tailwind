@@ -5,9 +5,10 @@ import Landingpage from './view/landingpage.vue';
 import Cardview from './view/cardview.vue';
 import Flexgridview from './view/flexgridview.vue';
 import Step from './view/step.vue';
+import TravelCard from './view/TravelCard.vue';
 </script>
 <template>
-  <Flexgridview />
+  <TravelCard />
 </template>
 
 <style scoped></style>
