@@ -6,9 +6,10 @@ import Cardview from './view/cardview.vue';
 import Flexgridview from './view/flexgridview.vue';
 import Step from './view/step.vue';
 import TravelCard from './view/TravelCard.vue';
+import Card from './components/Card.vue';
 </script>
 <template>
-  <TravelCard />
+  <Card />
 </template>
 
 <style scoped></style>
